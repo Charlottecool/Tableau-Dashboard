@@ -13,8 +13,8 @@ This project presents a Tableau Dashboard analyzing Super Store sales data, focu
   - **Kelly Williams (Central)**: Variable sales performance over time.
 
 ### 2. Profit by Sub-Category
-- **High Profit Sub-Categories**: Includes **Phones**, **Accessories**, and **Chairs**, which contribute positively to profit.
-- **Low Profit Sub-Categories**: **Tables** and **Bookcases** are less profitable, impacting overall profit margins.
+- **High Profit Sub-Categories**: Includes **Copiers**, **Phones**, and **Accessories**, which contribute positively to profit.
+- **Low Profit Sub-Categories**: **Supplies** and **Bookcases** are less profitable, impacting overall profit margins.
 - **Negative Profit Items**: Some items, such as **Tables**, show a net loss, suggesting areas for potential improvement.
 
 ### Interactive Filters
