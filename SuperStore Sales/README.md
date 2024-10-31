@@ -1,5 +1,5 @@
 # Super Store Sales Dashboard - Sales By Regional Manager
-
+![Super Store Sales Dashboard](https://github.com/user-attachments/assets/52763e93-27ab-4089-8c4b-d0150965c465)
 This project presents a Tableau Dashboard analyzing Super Store sales data, focusing on the performance of regional managers across different quarters. The dashboard offers insights into quarterly sales by region and profitability by product sub-categories, providing a comprehensive view of sales trends and profit margins.
 
 ## Dashboard Overview
