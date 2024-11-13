@@ -62,5 +62,5 @@ Based on the analysis, we suggest the following recommendations:
 
 For a detailed analysis and visual representation of the findings, please refer to the following:
 
-- [Employee Attrition Analysis PDF Report](#) 📄
+- [Employee Attrition Analysis PDF Report](https://github.com/Charlottecool/Tableau-Dashboard/blob/master/Employee%20Attrition%20Analysis/Overall%20analysis%20dashboard.pdf) 📄
 - [Interactive Tableau Dashboard on Tableau Public](https://public.tableau.com/views/EmployeeAttritionAnalysisDashboard_17314604921560/Overallanalysisdashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 📊
