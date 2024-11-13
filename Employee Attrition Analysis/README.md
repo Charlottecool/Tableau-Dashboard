@@ -1,4 +1,5 @@
 # Employee Attrition Analysis
+![Overall analysis dashboard](https://github.com/user-attachments/assets/64c81e6c-491a-404e-ad71-ec129d217669)
 
 This project aims to analyze employee attrition using a comprehensive dataset to uncover key insights and provide actionable recommendations. The dataset contains information about employee demographics, job satisfaction, salary, and attrition status. The goal of this analysis is to help the company understand the factors influencing employee turnover and to develop strategies for improving retention.
 
